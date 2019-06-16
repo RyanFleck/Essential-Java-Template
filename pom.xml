@@ -10,8 +10,8 @@
 
 	<name>hello</name>
 	<url>http://maven.apache.org</url>
-	
-		<build>
+
+	<build>
 		<finalName>hello</finalName>
 		<plugins>
 			<plugin>
